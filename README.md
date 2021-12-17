@@ -6,6 +6,8 @@ git clone https://github.com/tech-khushboo/tracktik-app.git
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
